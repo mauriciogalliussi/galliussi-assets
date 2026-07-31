@@ -1,0 +1,40 @@
+# ─────────────────────────────────────────────────────────────
+# REPOSITORIO PÚBLICO — SOLO PIEZAS TERMINADAS
+#
+# Es público a propósito: Instagram necesita bajar las imágenes
+# por URL para poder publicarlas.
+#
+# ACÁ NO ENTRA NADA MÁS QUE .jpg Y .mp4.
+# Ni documentos, ni planes, ni presupuestos, ni plantillas,
+# ni auditorías, y JAMÁS datos de clientes.
+#
+# La lógica es de lista blanca: se ignora todo y se permite
+# solo lo enumerado. No agregar excepciones sin pensarlo dos veces.
+# ─────────────────────────────────────────────────────────────
+
+# ignorar todo
+/*
+*.*
+
+# permitir recorrer subcarpetas
+!*/
+
+# lo único que se publica
+!*.jpg
+!*.mp4
+
+# archivos de control del propio repo
+!manifiesto.json
+!.gitignore
+!LEEME.md
+
+# barreras explícitas, por si alguna vez se aflojan las de arriba
+*.csv
+*.xlsx
+*.xls
+*.env
+token*
+credenciales*
+secretos*
+*.key
+*.pem

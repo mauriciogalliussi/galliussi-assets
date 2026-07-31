@@ -1,0 +1,812 @@
+﻿[
+    {
+        "archivo":  "feed/Post_caballo.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  140,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_clausulas.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  238,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Cross_Herramienta.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  141,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Cross_Invierno.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  125,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Cross_Service.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  143,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Denuncia_Venta.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  153,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Dia_Del_Nino.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  135,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Dia_Del_Nino_Saludo.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  92,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Elegi_Ruta.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  152,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Elegi_Ruta7.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  226,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Elegi_Volver.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  126,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Escarcha.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  151,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Finde_Largo.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  147,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_grua.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  259,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Hogar_Subaseguro.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  199,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Multicompania.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  196,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_OilGas_Operacion.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  238,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_parabrisas.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  194,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_patrimonio.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  201,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Pregunta_Franquicia.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  136,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_RC_Cruzada.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  184,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Resena_Julio.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  139,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_resenas.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  111,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_Sillita.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  138,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_v4a.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  236,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_v4b.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  222,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_v5.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  184,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Post_v6_Flota.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  240,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Post_v6_Story.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  297,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Caja_Preguntas.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  161,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Encuesta_Franquicia.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  150,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Instagram.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  179,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Micrositio_RUS.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  145,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Micrositio_SanCristobal.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  285,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_1.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  158,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_1_Respuesta.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  175,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_2.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  158,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_2_Respuesta.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  168,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_3.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  159,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_3_Respuesta.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  178,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_4.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  159,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Trivia_4_Respuesta.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  169,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "historias/Story_Web.jpg",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  201,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Triptico_1_Izquierda.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  140,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Triptico_2_Centro.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  130,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "feed/Triptico_3_Derecha.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  145,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_1.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  106,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_2.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  93,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_3.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  97,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_4.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  112,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_5.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  109,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Franquicia_6.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  115,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_1.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  108,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_2.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  94,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_3.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  84,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_4.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  80,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_5.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  77,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_6.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  90,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_OilGas5_7.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  134,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_1.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  100,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_2.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  84,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_3.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  77,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_4.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  83,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_5.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  92,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_6.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  78,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "carruseles/Carrusel_Siniestro_7.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  120,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Banner_LinkedIn.jpg",
+        "ancho":  2256,
+        "alto":  382,
+        "ratio":  5.9058,
+        "kb":  178,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Clientes.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  40,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Cotiza.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  38,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Fiore.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  45,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Grua.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  38,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Guia.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  41,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Oficina.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  45,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Petroleo.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  47,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Siniestros.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  43,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Tramites.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  38,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_Trivias.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  36,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Destacada_WhatsApp.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  40,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Fiore_Avatar_A.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  36,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Fiore_Avatar_B.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  34,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Fiore_Avatar_C.jpg",
+        "ancho":  1080,
+        "alto":  1080,
+        "ratio":  1,
+        "kb":  34,
+        "apto_feed":  true,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "portadas/Portada_FB.jpg",
+        "ancho":  1640,
+        "alto":  624,
+        "ratio":  2.6282,
+        "kb":  142,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_01_3Errores.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2531,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_02_NoSomosUnaApp.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2395,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_03_EscribileAFiore.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2191,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_04_Primeros10Minutos.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2605,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_05_QueMiraUnContratista.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2415,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_06_CuatroPapeles.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2815,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_07_CasaValor2019.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2037,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    },
+    {
+        "archivo":  "reels/Reel_08_CuatroMitos.mp4",
+        "ancho":  1080,
+        "alto":  1920,
+        "ratio":  0.5625,
+        "kb":  2783,
+        "apto_feed":  false,
+        "bajo_8mb":  true
+    }
+]
