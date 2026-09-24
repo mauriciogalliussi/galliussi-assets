@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "archivo":  "feed/Post_caballo.jpg",
         "ancho":  1080,
@@ -189,11 +189,11 @@
         "bajo_8mb":  true
     },
     {
-        "archivo":  "feed/Post_Resena_Julio.jpg",
+        "archivo":  "feed/Post_Resena_Anonima.jpg",
         "ancho":  1080,
         "alto":  1080,
         "ratio":  1,
-        "kb":  139,
+        "kb":  91,
         "apto_feed":  true,
         "bajo_8mb":  true
     },
@@ -202,7 +202,7 @@
         "ancho":  1080,
         "alto":  1080,
         "ratio":  1,
-        "kb":  111,
+        "kb":  78,
         "apto_feed":  true,
         "bajo_8mb":  true
     },
